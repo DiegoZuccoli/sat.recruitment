@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBkcyinTlB6c+fsTnOM8Bh2ptxYZICZ3BWXflvr0bi8V9/gmf6/MhZTNm31kOs5J7ePTnbBbZsnJoPXYexCgwg==",
+  "success": true,
+  "projectFilePath": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Manager/Sat.Recruitment.Manager.csproj",
+  "expectedPackageFiles": [
+    "/home/frehley/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/frehley/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/frehley/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/frehley/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/frehley/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.14.0/microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "/home/frehley/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

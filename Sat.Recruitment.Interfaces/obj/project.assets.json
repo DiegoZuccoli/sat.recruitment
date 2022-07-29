@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Sat.Recruitment.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Sat.Recruitment.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sat.Recruitment.DTO.dll": {}
+        }
+      },
+      "Sat.Recruitment.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Sat.Recruitment.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sat.Recruitment.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Sat.Recruitment.DTO/Sat.Recruitment.DTO.csproj",
+      "msbuildProject": "../Sat.Recruitment.DTO/Sat.Recruitment.DTO.csproj"
+    },
+    "Sat.Recruitment.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj",
+      "msbuildProject": "../Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Sat.Recruitment.DTO >= 1.0.0",
+      "Sat.Recruitment.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/frehley/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/Sat.Recruitment.Interfaces.csproj",
+      "projectName": "Sat.Recruitment.Interfaces",
+      "projectPath": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/Sat.Recruitment.Interfaces.csproj",
+      "packagesPath": "/home/frehley/.nuget/packages/",
+      "outputPath": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/frehley/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://github.com/contabilium/Contabilium.NuGet.Authentication": {},
+        "https://github.com/contabilium/Contabilium.NuGet.Caching": {},
+        "https://github.com/contabilium/Contabilium.NuGet.Export": {},
+        "https://github.com/contabilium/Contabilium.NuGet.Logging": {},
+        "https://github.com/contabilium/Contabilium.NuGet.Messaging": {},
+        "https://github.com/contabilium/Contabilium.Nuget.Export/tree/develop/Contabilium.Nuget.Exports.Package": {},
+        "https://github.com/contabilium/Contabilium.Nuget.Exports": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/Sat.Recruitment.DTO.csproj": {
+              "projectPath": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/Sat.Recruitment.DTO.csproj"
+            },
+            "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj": {
+              "projectPath": "/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sat.Recruitment.Entities/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

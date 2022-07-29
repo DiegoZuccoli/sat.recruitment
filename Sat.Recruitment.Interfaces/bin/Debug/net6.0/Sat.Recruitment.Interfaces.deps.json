@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sat.Recruitment.Interfaces/1.0.0": {
+        "dependencies": {
+          "Sat.Recruitment.DTO": "1.0.0",
+          "Sat.Recruitment.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Sat.Recruitment.Interfaces.dll": {}
+        }
+      },
+      "Sat.Recruitment.DTO/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.DTO.dll": {}
+        }
+      },
+      "Sat.Recruitment.Entities/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

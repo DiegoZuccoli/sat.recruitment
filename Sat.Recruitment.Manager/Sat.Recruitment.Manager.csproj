@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sat.Recruitment.DTO\Sat.Recruitment.DTO.csproj" />
+    <ProjectReference Include="..\Sat.Recruitment.Entities\Sat.Recruitment.Entities.csproj" />
+    <ProjectReference Include="..\Sat.Recruitment.Interfaces\Sat.Recruitment.Interfaces.csproj" />
+    <ProjectReference Include="..\Sat.Recruitment.Repositories\Sat.Recruitment.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+
+  
+</Project>

@@ -1,0 +1,17 @@
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.Interfaces.deps.json
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.Interfaces.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.Interfaces.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.DTO.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.Entities.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.DTO.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/bin/Debug/net6.0/Sat.Recruitment.Entities.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.csproj.AssemblyReference.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.AssemblyInfoInputs.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.AssemblyInfo.cs
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.csproj.CoreCompileInputs.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.csproj.CopyComplete
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/refint/Sat.Recruitment.Interfaces.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/Sat.Recruitment.Interfaces.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.Interfaces/obj/Debug/net6.0/ref/Sat.Recruitment.Interfaces.dll

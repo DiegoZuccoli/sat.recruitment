@@ -1,0 +1,12 @@
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/bin/Debug/net6.0/Sat.Recruitment.DTO.deps.json
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/bin/Debug/net6.0/Sat.Recruitment.DTO.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/bin/Debug/net6.0/Sat.Recruitment.DTO.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.csproj.AssemblyReference.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.AssemblyInfoInputs.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.AssemblyInfo.cs
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.csproj.CoreCompileInputs.cache
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/refint/Sat.Recruitment.DTO.dll
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/Sat.Recruitment.DTO.pdb
+/home/frehley/Desarrollo/Sat.Recruitment/Sat.Recruitment.DTO/obj/Debug/net6.0/ref/Sat.Recruitment.DTO.dll
